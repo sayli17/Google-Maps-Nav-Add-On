@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="GradStart">#1A2B84</color>
+    <color name="GradEnd">#50BDE8</color>
+    <color name="ButtonText">#FFFFFF</color>
+</resources>
